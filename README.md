@@ -1085,3 +1085,303 @@ GGTC.info Infrastructure Principle
 
 Repository INDEX.md
 
+# INDEX
+
+## GGTC.info Global Educational Infrastructure Repository
+
+---
+
+# Core Documents
+
+| File | Description |
+|---|---|
+| README.md | Primary repository overview |
+| LICENSE.md | Public release license |
+| INDEX.md | Repository navigation structure |
+| CHANGELOG.md | Repository change history |
+| GLOSSARY.md | Infrastructure terminology |
+| CONTRIBUTING.md | Contribution framework |
+| DATA_USAGE.md | Data and citation usage policies |
+
+---
+
+# Core Infrastructure Directories
+
+## /core
+
+Foundational infrastructure doctrine and governance systems.
+
+| Directory | Description |
+|---|---|
+| doctrine/ | Infrastructure philosophy and principles |
+| governance/ | Governance frameworks and policies |
+| methodology/ | Documentation methodologies |
+| semantic-frameworks/ | Semantic continuity systems |
+
+---
+
+## /datasets
+
+Structured educational and linguistic datasets.
+
+| Directory | Description |
+|---|---|
+| global/ | Global systems datasets |
+| islands/ | Island systems documentation |
+| indigenous/ | Indigenous systems archives |
+| creole-contact/ | Creole and contact systems |
+| language-families/ | Language relationship systems |
+| endangered/ | Endangered systems preservation |
+
+---
+
+## /schema
+
+Machine-readable infrastructure architecture.
+
+| Directory | Description |
+|---|---|
+| csv/ | CSV schema systems |
+| json/ | JSON structure systems |
+| validation/ | Validation frameworks |
+| source-mapping/ | Citation and source mapping |
+
+---
+
+## /citations
+
+Verification and source governance systems.
+
+| Directory | Description |
+|---|---|
+| source-authorities/ | Source verification systems |
+| verification/ | Citation verification layers |
+| citation-policy/ | Repository citation governance |
+
+---
+
+## /docs
+
+Infrastructure and educational documentation.
+
+| Directory | Description |
+|---|---|
+| onboarding/ | Repository onboarding |
+| system-overview/ | Infrastructure overview |
+| language-roles/ | Language system functions |
+| island-systems/ | Island infrastructure systems |
+| indigenous-systems/ | Indigenous continuity systems |
+| creole-systems/ | Creole and contact frameworks |
+
+---
+
+## /seo
+
+Semantic indexing and discoverability systems.
+
+| Directory | Description |
+|---|---|
+| schema-markup/ | Search engine schema structures |
+| metadata/ | Metadata indexing systems |
+| semantic-indexing/ | Semantic discoverability |
+| search-frameworks/ | Search architecture systems |
+
+---
+
+## /machine_exports
+
+Machine-readable interoperability systems.
+
+| Directory | Description |
+|---|---|
+| json/ | JSON export systems |
+| yaml/ | YAML infrastructure exports |
+| api-ready/ | API interoperability systems |
+| snapshots/ | Infrastructure continuity snapshots |
+
+---
+
+## /archive
+
+Historical continuity preservation systems.
+
+| Directory | Description |
+|---|---|
+| deprecated/ | Deprecated infrastructure systems |
+| snapshots/ | Historical repository snapshots |
+| historical/ | Long-term archival systems |
+
+---
+
+## /logs
+
+Infrastructure continuity logging systems.
+
+| Directory | Description |
+|---|---|
+| 2026/ | Year-based continuity logs |
+| continuity/ | Long-term continuity tracking |
+
+---
+
+## /assets
+
+Visual and infrastructure support systems.
+
+| Directory | Description |
+|---|---|
+| maps/ | Infrastructure mapping |
+| diagrams/ | System diagrams |
+| visual-governance/ | Governance visualization |
+| infrastructure/ | Infrastructure visual assets |
+
+---
+
+⸻
+
+Repository GLOSSARY.md
+
+# GLOSSARY
+
+## GGTC.info Infrastructure Terminology
+
+---
+
+# A
+
+## Archival Continuity
+
+The preservation of historical infrastructure records, metadata systems, governance systems, and semantic relationships across time.
+
+---
+
+# C
+
+## Citation Governance
+
+The structured verification and traceability framework used to preserve source integrity.
+
+## Continuity Architecture
+
+A system designed to maintain long-term educational, semantic, historical, and infrastructural preservation.
+
+---
+
+# E
+
+## Educational Infrastructure
+
+Structured systems used to organize, preserve, distribute, and maintain educational continuity.
+
+---
+
+# G
+
+## Governance Layer
+
+The policy and operational framework controlling repository structure, verification, preservation, and continuity.
+
+---
+
+# I
+
+## Infrastructure System
+
+A foundational framework supporting continuity, interoperability, governance, semantic structure, and educational systems.
+
+## Interoperability
+
+The ability for systems, datasets, semantic frameworks, and repositories to communicate and function together.
+
+---
+
+# M
+
+## Machine-Readable System
+
+A structured framework designed for interpretation by computational systems and AI systems.
+
+## Metadata Infrastructure
+
+The organizational system governing structured information, semantic relationships, indexing, and discoverability.
+
+---
+
+# S
+
+## Semantic Architecture
+
+A structured meaning framework connecting language, metadata, governance, and educational systems.
+
+## Semantic Continuity
+
+The preservation of meaning, relationships, and interpretive consistency over time.
+
+## Structured Language
+
+Language designed for organizational clarity, machine readability, governance integrity, and interoperability.
+
+---
+
+# T
+
+## Template Infrastructure
+
+A reusable structural framework that establishes continuity, scalability, interoperability, and governance consistency.
+
+---
+
+# V
+
+## Verification Layer
+
+A citation and validation framework ensuring traceability and source integrity.
+
+---
+
+Infrastructure Observation
+
+The repository template now functions as:
+
+* an initialization framework
+* a governance structure
+* a continuity engine
+* a semantic operating layer
+* a machine-readable educational system
+* a scalable infrastructure blueprint
+
+⸻
+
+Continuity Marker
+
+Field
+
+Value
+
+Date
+
+May 28, 2026
+
+Time
+
+10:33
+
+Repository Status
+
+ACTIVE
+
+Semantic Layer
+
+CONNECTED
+
+Infrastructure Layer
+
+EXPANDING
+
+Continuity Status
+
+STABLE
+
+Closing Principle
+
+“A properly designed template becomes infrastructure. Infrastructure becomes continuity.”
